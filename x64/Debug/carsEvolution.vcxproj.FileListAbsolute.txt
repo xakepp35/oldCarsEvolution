@@ -1,0 +1,2 @@
+D:\nn\carsEvolution\x64\Debug\carsEvolution.exe
+D:\nn\carsEvolution\x64\Debug\carsEvolution.pdb
